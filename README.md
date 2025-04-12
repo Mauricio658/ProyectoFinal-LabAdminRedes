@@ -20,9 +20,10 @@ Cada área está segmentada en subredes distintas utilizando **VLSM** (Variable 
 - VLAN de datos para subred de administración
 - Servicios de red:
   - Servidor DNS
-  - Servidor DHCP (IP dinámica)
+  - Servidor DHCP (IP dinámica usando los routers)
   - Servidor Web con dominio personalizado y conexión HTTPS
   - Servidor FTP
+  - Servidor de Correo
 - Controladora WLAN para puntos de acceso inalámbrico
 - Enrutamiento OSPF Multiárea
 - Una subred configurada con IPv6
