@@ -24,10 +24,12 @@ Cada área está segmentada en subredes distintas utilizando **VLSM** (Variable 
   - Servidor Web con dominio personalizado y conexión HTTPS
   - Servidor FTP
   - Servidor de Correo
+  - Servidor NTP y Syslog
 - Controladora WLAN para puntos de acceso inalámbrico
 - Enrutamiento OSPF Multiárea
 - Una subred configurada con IPv6
-- SSH configurado en un switch
+- SSH configurado en Routers
+- Telnet configurado en Switches
 
 ## 🖥️ Requisitos Técnicos
 
