@@ -27,7 +27,7 @@ Cada área está segmentada en subredes distintas utilizando **VLSM** (Variable 
   - Servidor NTP y Syslog
 - Controladora WLAN para puntos de acceso inalámbrico
 - Enrutamiento OSPF Multiárea
-- Una subred configurada con IPv6
+- Puertos configurados con PortFast y PortSecurity
 - SSH configurado en Routers
 - Telnet configurado en Switches
 
